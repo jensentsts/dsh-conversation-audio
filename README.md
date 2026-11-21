@@ -1,5 +1,14 @@
 # Conversation audio
 
+## 从 GitHub 直接安装
+
+在 DSH 的「插件 → 安装第三方插件」粘贴以下地址并安装：
+
+```text
+https://github.com/jensentsts/dsh-conversation-audio/archive/refs/heads/main.tar.gz
+```
+
+
 > 插件集导航与市场索引：https://github.com/jensentsts/dsh-independent-plugins
 
 
